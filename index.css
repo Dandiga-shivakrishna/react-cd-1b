@@ -1,0 +1,13 @@
+.bg-container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  height: 100vh;
+  background-size: cover;
+  text-align: center;
+}
+.sub-container {
+  margin: 40px;
+  padding: 10px;
+  width: 800px;
+  border-radius: 10px;
+  background-color: #cffafe;
+}
